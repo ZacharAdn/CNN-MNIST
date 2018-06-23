@@ -1,1 +1,1 @@
-Simple implementation for convolutional neural network used MNIST dataset
+First implementation for convolutional neural network used MNIST dataset, Tensorflow enviroment
